@@ -20,6 +20,9 @@
 
 <h3 align="left">Technical Skills:</h3>
 
+**About Me**
+I'm a Machine Learning Engineer at SlashNext, specializing in NLP and AI. I have extensive experience in developing real-time NLP models, deploying customized models, and automating data pipelines. My skills span across various domains including text classification, feature engineering, data analysis, and more.
+
 **Areas of Expertise:**
 - Generative AI with Large Language Models
 - Reinforcement Learning and LLM-powered Applications
