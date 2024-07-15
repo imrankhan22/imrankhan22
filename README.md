@@ -22,13 +22,19 @@
 
 **Areas of Expertise:**
 - Generative AI with Large Language Models
-- Reinforcement learning and LLM-powered applications
-- Building applications using embeddings and RAG
-- Fine-tuning on domain-specific tasks using PEFT
-- Natural language processing and text classification
-- Feature engineering and data analysis
-- Real-time NLP model development
-- Automated data pipelines
+- Reinforcement Learning and LLM-powered Applications
+- Building Applications using Embeddings and RAG
+- Fine-tuning on Domain-specific Tasks using PEFT
+- Natural Language Processing and Text Classification
+- Feature Engineering and Data Analysis
+- Real-time NLP Model Development
+- Automated Data Pipelines
+- Model Deployment and Monitoring
+- Data Preprocessing and Cleaning
+- Deep Learning for Computer Vision
+- Time Series Analysis
+- Bayesian Inference and Probabilistic Modeling
+- Hyperparameter Tuning and Model Optimization
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
